@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "私小説",
   "base_artist": "Tele",
-  "createdAt": "2026-03-11T15:50:30.737523Z",
+  "createdAt": "2026-04-05T11:45:24.799903Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "Tele",
       "has_synced": false,
       "path": "select/pl_01_私小説_Tele.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "私小説",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/localdb_01_私小説_Tele.txt",
+      "repo_name": "n3q8o9-lPXw"
     }
   ]
 }
